@@ -1,0 +1,85 @@
+0	0	what is the abbreviation for canadian airlines international
+0	3	what is bna
+0	6	what is ff
+0	14	what does restriction ap 57
+0	21	what is restriction ap 80
+1	0	okay i would like to know the type of aircraft used on a flight from cleveland to dallas please
+1	3	what kind of aircraft do you have flying from boston to san francisco on august twenty seventh
+1	6	what kind of plane is used on the earliest flight from boston to san francisco afternoon
+1	14	what aircraft is co 1209
+1	21	what types of aircraft does delta fly
+3	0	show me the most expensive fare
+3	3	find the cheapest one way fare from pittsburgh to san francisco
+3	6	what is the cheapest first class fare from cleveland to miami on us air on february twenty fourth
+3	14	what are the lowest one way fares from pittsburgh to atlanta
+3	21	what are the fares for flights from la to newark leaving monday morning
+6	0	what airlines fly from boston to pittsburgh
+6	3	which airlines fly from boston to washington
+6	6	what airlines fly from new york to milwaukee to los angeles
+6	14	what airline is dl
+6	21	which airlines fly between boston and pittsburgh
+8	0	give me a list of airports in baltimore
+8	3	does the philadelphia airport have a name
+8	6	airports in new york
+8	14	what 's the name of the denver airport
+8	21	what is the name of the airport in philadelphia
+9	0	what is the seating capacity for the f28
+9	3	what are the seating capacities of planes between pittsburgh and baltimore
+9	6	what is the seating capacity for the f28
+9	14	what 's the capacity of a 733
+9	21	how many seats in a 734
+11	0	what are the cities served by delta airlines
+11	3	what cities does continental service
+11	6	what time zone is denver in
+11	14	show me city served both by nationair and canadian airlines international
+11	21	what time zone is denver in
+13	0	tell me distance from orlando airport to the city
+13	3	how long does it take to get from denver to oakland
+13	6	how far is downtown from the airport in dallas
+13	14	what is the distance from los angeles international airport to los angeles
+13	21	how far is it from orlando airport to orlando
+14	0	show me all the flights to baltimore after 6 o'clock pm
+14	3	does northwest fly into denver
+14	6	i 'd like to see flights from baltimore to atlanta
+14	14	flight from boston to baltimore
+14	21	i 'd like to book a flight from columbus to nashville please
+15	0	give me the flights and fares on december twenty seventh from orlando to indianapolis airfare
+15	3	all flights and fares from pittsburgh to dallas round trip after 12 pm less than 1100 dollars
+15	6	give me the flights and fares on december twenty seventh from indianapolis to orlando
+15	14	all flights and fares from atlanta to dallas round trip after 12 pm less than 1100 dollars
+15	21	all flights and fares from atlanta to dallas round trip after 12 pm less than 1100 dollars
+17	0	flight numbers from minneapolis to long beach on june twenty six
+17	3	list the number of flights arriving in dallas fort worth from boston before noon
+17	6	what are the flight numbers of the flights which go from san francisco to washington via indianapolis
+17	14	please show me the return flight number from toronto to st. petersburg
+17	21	i would like the flight number and the time for the cheapest fare that is the least expensive first class fare from san francisco to pittsburgh leaving after 8 pm monday night
+19	0	please list the flight times from boston to pittsburgh
+19	3	please list the flight times from pittsburgh to newark
+19	6	please list the flight schedule from baltimore to san francisco on friday nights
+19	14	what is the departure time of the latest flight of united airlines from denver to boston
+19	21	what is delta 's schedule of morning flights to atlanta
+20	0	what price is a limousine service in boston
+20	3	how expensive is the san francisco limousine service
+20	6	how much is the ground transportation between atlanta and downtown
+20	14	what is the cost of limousine service at logan airport
+20	21	how much does it cost to get downtown from the atlanta airport by limousine
+21	0	what limousine service in los angeles
+21	3	ground transportation minneapolis
+21	6	ground transportation in denver
+21	14	what types of ground transportation are available in philadelphia
+21	21	show ground transportation for pittsburgh
+23	0	what are my meal options from boston to denver
+23	3	do i get a meal on the atlanta to bwi flight eastern 210
+23	6	do i get a meal on the atlanta to bwi flight eastern 210
+23	14	what are my meal options from boston to denver
+23	21	do i get a meal on the atlanta to bwi flight eastern 210
+24	0	how many flights come from denver to baltimore on july nineteenth
+24	3	how many flights does continental airlines have with a class of service code f
+24	6	how many fares are there one way from tacoma to montreal
+24	14	how many american airline flights leave denver june tenth
+24	21	how many flights does american airlines have with a class of service code f
+25	0	what 's restriction ap68
+25	3	what are the restrictions on the cheapest one way fare between boston and oakland
+25	6	what is restriction ap57
+25	14	what are the restrictions on the cheapest one way fare between boston and oakland
+25	21	what is restriction ap57
