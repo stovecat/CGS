@@ -31,7 +31,7 @@ $ ./train_text_classification.sh [dataset] [data_setting] [cmodel] [gmodel]
 ~~~
 or
 ~~~
-$ run train.py with custom arguments
+$ run train.py [with custom arguments]
 ~~~
 
 #### Example 1) Train on TREC-longtail augmented by CGS_d:
