@@ -1,4 +1,4 @@
-# Counterfactual Generative Smoothing forImbalanced Natural Language Classification
+# Counterfactual Generative Smoothing for Imbalanced Natural Language Classification
 
 This repository contains code for the paper "Counterfactual Generative Smoothing forImbalanced Natural Language Classification" by Hojae Han, Seungtaek Choi, Myeongho Jeong, Jin-woo Park, and Seung-won Hwang. 
 
