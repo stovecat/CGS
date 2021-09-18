@@ -61,5 +61,11 @@ $ python train.py --num_of_epoch 100 --gpu --device 0 --dataset TREC --data_sett
 ## Citation
 
 ```bibtex
+@inproceedings{han2021counterfactual,
+  title={Counterfactual Generative Smoothing for Imbalanced Natural Language Classification},
+  author={Hojae, Han and Seungtaek, Choi and Myeongho, Jeong and Jin-woo, Park and Seung-won, Hwang},
+  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  year={2021}
+}
 ```
 
